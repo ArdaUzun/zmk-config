@@ -1,0 +1,6 @@
+if SHIELD_UNIBLOCK_ARDA
+
+config ZMK_KEYBOARD_NAME
+    default "uniblock_arda"
+
+endif
